@@ -1,0 +1,9 @@
+@media screen and (max-width: 1500px)  {
+    .hero-image-slider {
+        padding: 0;
+    }
+
+    main {
+        padding: 0 10px;
+    }
+}
